@@ -1,0 +1,107 @@
+body {
+    font-family: system-ui;
+    background-color: rgba(176, 130, 224, 1);
+}
+
+header{
+   
+    background-color: rgba(202, 162, 226, 1);
+}
+
+header a{
+  
+    color:black;
+    margin-left:60px;
+    padding:10px;
+    text-decoration:none;
+    margin-top:40px;
+   
+    
+}
+
+header img{
+
+    width: 100px;
+    height: 90px;
+}
+
+.one{
+
+   height:150px ;
+
+
+}
+
+.two{
+
+    float:right;
+    Width:100px;
+
+}
+
+.cero{
+
+    float:bottom;
+    padding-top:10px;
+   
+}
+
+
+h1{
+
+    text-align:center;
+    font-size: 80px;
+}
+
+.four{
+
+    font-size: 20px;
+    margin-top:200px;
+}
+
+.five{
+
+    width:100px;
+    height: 100px;
+    float:right;
+}
+
+.six{
+    width:700px;
+    height: 800px;
+
+}
+
+.seven{
+
+
+    width:200px;
+    height: 200px;
+    float:right;
+
+
+}
+
+.eight{
+
+    font-size: 20px;
+    float:lef;
+    text-align: center;
+    margin-bottom:100px ;
+    margin-left:170px ;
+}
+
+footer{
+
+    background-color: rgba(35, 20, 51, 1)
+}
+
+footer a {
+
+ text-decoration:none;
+ color:white;
+ background-color: rgba(35, 20, 51, 1)
+ margin:50px;
+ font-size:30px;
+    
+}
